@@ -1,7 +1,8 @@
 /*
  * deno run --allow-net abc.ts
-
- * Docs: 
+ * OR
+ * deno run --allow-net https://raw.githubusercontent.com/tomanagle/deno-http-servers/master/abc.ts
+ * Docs: https://github.com/zhmushan/abc
  */
 import { Application } from 'https://deno.land/x/abc@v1.0.0-rc6/mod.ts'
 
