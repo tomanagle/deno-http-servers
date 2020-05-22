@@ -1,7 +1,7 @@
 /*
  * deno run --allow-net --allow-read oak.ts
  * OR
- *
+ * deno run --allow-net --allow-read https://raw.githubusercontent.com/tomanagle/deno-http-servers/master/oak.ts
  * Docs: https://github.com/oakserver/oak
  */
 import { Application } from 'https://deno.land/x/oak/mod.ts'
