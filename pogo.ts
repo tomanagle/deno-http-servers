@@ -1,7 +1,7 @@
 /*
  * deno run --allow-net pogo.ts
  * OR
- *
+ * deno run --allow-net https://raw.githubusercontent.com/tomanagle/deno-http-servers/master/pogo.ts
  * Docs: https://github.com/sholladay/pogo
  */
 import pogo from 'https://deno.land/x/pogo/main.ts'
